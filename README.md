@@ -158,7 +158,7 @@ Changelog is in in the directory [docs/CHANGELOG.md](https://github.com/EasyX-Co
 ### Credits
 | User | Comment|
 | ------------- | ------------- |
-| [timy_g] (//github.com/TimyIsCool) Activly working on this project |
+| [timy_g] (https://github.com/TimyIsCool) | Activly working on this project |
 | [LeshaCat](//github.com/leshacat) / [EasyX-Community](//github.com/EasyX-Community/) | How could anyone forget the original [leshacat/EasyNOMP](https://github.com/leshacat/EasyNOMP) dev?<br /> - Fixed lots of documentation, configuration, and block explorer<br /> - Fixed some API and Redis issues |
 | [foxer666](//github.com/foxer666) | How could anyone forget the original [foxer666/node-open-mining-portal](https://github.com/foxer666/node-open-mining-portal) devs? |
 | [zone117x](//github.com/zone117x) | How could anyone forget the original [zone117x/node-open-mining-portal](https://github.com/zone117x/node-open-mining-portal) devs? |
