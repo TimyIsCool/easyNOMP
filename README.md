@@ -60,27 +60,27 @@ http://www.gnu.org/licenses/gpl-2.0.html
 -------
 ### Install Pool
 
-Install instructions are in the directory [docs/README.md](https://github.com/EasyX-Community/EasyNOMP/blob/master/docs/INSTALL.md)
+Install instructions are in the directory [docs/README.md](https://github.com/TimyIsCool/easyNOMP/blob/master/docs/INSTALL.md)
 
 -------
 ### Configure Pool
 
-Pool configuration instructions are at the EasyNOMP Wiki: https://github.com/EasyX-Community/EasyNOMP/wiki
+Pool configuration instructions are at the EasyNOMP Wiki: [wiki](https://github.com/TimyIsCool/easyNOMP/wiki)
 
 -------
 ### Run in Docker
 
-Docker instructions are in in the directory [docs/README.md](https://github.com/EasyX-Community/EasyNOMP/blob/master/docs/DOCKER.md)
+Docker instructions are in in the directory [docs/README.md](https://github.com/TimyIsCool/easyNOMP/blob/master/docs/DOCKER.md)
 
 -------
 ### Troubleshooting
 
-Troubleshooting is in in the directory [docs/TROUBLESHOOTING.md](https://github.com/EasyX-Community/EasyNOMP/blob/master/docs/TROUBLESHOOTING.md)
+Troubleshooting is in in the directory [docs/TROUBLESHOOTING.md](https://github.com/TimyIsCool/easyNOMP/blob/master/docs/TROUBLESHOOTING.md)
 
 -------
 ### Changelog
 
-Changelog is in in the directory [docs/CHANGELOG.md](https://github.com/EasyX-Community/EasyNOMP/blob/master/docs/CHANGELOG.md)
+Changelog is in in the directory [docs/CHANGELOG.md](https://github.com/TimyIsCool/easyNOMP/blob/master/docs/CHANGELOG.md)
 
 -------
 ### Hashing algorithms
@@ -158,7 +158,7 @@ Changelog is in in the directory [docs/CHANGELOG.md](https://github.com/EasyX-Co
 ### Credits
 | User | Comment|
 | ------------- | ------------- |
-| [timy_g] (https://github.com/TimyIsCool) | Activly working on this project |
+| [timy_g](https://github.com/TimyIsCool) | Activly working on this project |
 | [LeshaCat](//github.com/leshacat) / [EasyX-Community](//github.com/EasyX-Community/) | How could anyone forget the original [leshacat/EasyNOMP](https://github.com/leshacat/EasyNOMP) dev?<br /> - Fixed lots of documentation, configuration, and block explorer<br /> - Fixed some API and Redis issues |
 | [foxer666](//github.com/foxer666) | How could anyone forget the original [foxer666/node-open-mining-portal](https://github.com/foxer666/node-open-mining-portal) devs? |
 | [zone117x](//github.com/zone117x) | How could anyone forget the original [zone117x/node-open-mining-portal](https://github.com/zone117x/node-open-mining-portal) devs? |
