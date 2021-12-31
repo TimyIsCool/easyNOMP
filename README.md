@@ -7,7 +7,7 @@
 ***EasyNOMP pool is live, come mine PEXA @ [https://easyxpool.tk/](http://easyxpool.tk/)***<br />
 ***Visit the Pexa Project website: https://www.pexaproject.com/***
 
-***EasyNOMP has been abandoned due to never ending list of improvements. You may fork and finish where I left off. Still many bugs and things to do from it's original programmer. I gave up because the workload was way too much.***
+***EasyNOMP has been picked up by me for some updates.***
 
 -------
 ### Features
@@ -100,6 +100,7 @@ Changelog is in in the directory [docs/CHANGELOG.md](https://github.com/EasyX-Co
 | ✓ | __Yescrypt__ | needs tests, though should work |
 | ✓ | __YescryptR16__ | needs tests, though should work |
 | ✓ | __YescryptR32__ | currently being tested with WaviCoin. shares work, payments unconfirmed |
+| ✓ | __Ghostrider__ | Tested with raptoreum, Shares work, Payments unconfirmed |
 
 #### Need tests
 |   | Algorithm | Comment|
@@ -157,6 +158,7 @@ Changelog is in in the directory [docs/CHANGELOG.md](https://github.com/EasyX-Co
 ### Credits
 | User | Comment|
 | ------------- | ------------- |
+| [timy_g] (//github.com/TimyIsCool) Activly working on this project |
 | [LeshaCat](//github.com/leshacat) / [EasyX-Community](//github.com/EasyX-Community/) | How could anyone forget the original [leshacat/EasyNOMP](https://github.com/leshacat/EasyNOMP) dev?<br /> - Fixed lots of documentation, configuration, and block explorer<br /> - Fixed some API and Redis issues |
 | [foxer666](//github.com/foxer666) | How could anyone forget the original [foxer666/node-open-mining-portal](https://github.com/foxer666/node-open-mining-portal) devs? |
 | [zone117x](//github.com/zone117x) | How could anyone forget the original [zone117x/node-open-mining-portal](https://github.com/zone117x/node-open-mining-portal) devs? |
@@ -180,16 +182,18 @@ Changelog is in in the directory [docs/CHANGELOG.md](https://github.com/EasyX-Co
 
 ### Plz Buy Me Some Coffee?
 
-Donate if you like, but no development is being done as I've abandoned the project a long time ago due to workload and irrelevance (check out pexaproject.com). If you would like to take over, simply fork the repository by clicking "fork" in the top right. You may edit these addresses and place your own.
+Donations would be great because I am working on it and updating some/all files to work with nodejs V16 and other stuff
 
 
-BTC: `18TmiWzbMLyf7MvQMcNWh3hUBVrxBgzrWi`
+BTC: `17xniFC81WzGoX7vShEmPAGTXdgprJLS3Q`
 
-LTC: `LX1fUwLVcAaRXvP67ZcqUvjjteaKx1nAvL`
+LTC: `LSojL7Nw2GsdCLv6RW4xxkiKCiPoJMMXym`
 
-ETH/ERC20: `0x52fD0B6847E1D3cEc5600359f24d671FdE2Bc65B`
+ETH/ERC20: `0x96ae8FBAf01eD14e5442eF9188899fE6159214d4`
 
-XMR: `4AVabKt1zGhUckqWC5DKtkcc49ChYFuSETzvDZFfVnUYYY5vC4CSZ9xYzmCWvx7ePYZ9YvxgYbYsLL1L9TfQy2hi5Awsc7d`
+XMR: `43JMxKpFDiwfj32cKn3WTWcC9ntLtLCkgPpkh69RdTWKcaYVNMjBgxdSayTMYg8JYsKSgWzj3s8YGFnBnYU2mgxRBoFaJqr`
+
+RTM: `RUSMnMdWTKDcZNTHLaeoBVDrS8YsA6Afw2`
 
 -------
 
