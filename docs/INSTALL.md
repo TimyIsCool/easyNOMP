@@ -2,6 +2,8 @@
 
 -------
 
+The Below commands may or may not work, I have a video on how to setup the pool that is coming out soon
+
 ### Installer Script
 You know we like things easy, so we've created this handy installer script for you!
 Please be aware, this script is not yet tested, and may not even work!
